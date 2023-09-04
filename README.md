@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farooq Tabassum</h1>
 <h3 align="center">An enthusiastic Full Stack Artificial Intelligence Engineer based in Pakistan.</h3>
 
-<img align="right" alt="Coding" width="400" src="C:\Users\Hacked_Machine\Downloads\imageedit_2_6815605539.jpg">
+<img align="right" alt="Coding" width="400" src="https://mega.nz/file/Us4GkLBT#m0jKsQ5bR3InsddFYyEZ0D5tit7JzpP4W_DQQv562lA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarii99&label=Profile%20views&color=0e75b6&style=flat" alt="ansarii99" /> </p>
 
